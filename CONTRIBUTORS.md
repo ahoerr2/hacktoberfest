@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Alex Hoerr](https://github.com/ahoerr2)
+- Place: Illinois, United States
+- Bio: Student (Java, C++)
+- Github: [Alex Hoerr](https://github.com/ahoerr2)
